@@ -1,0 +1,19 @@
+.paragraph{
+    background-color: rgb(247, 186, 196);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2{
+    color: rgb(38, 38, 233);
+    font-size: 36px;
+}
+
+.secondClass{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: rgb(171, 230, 171);
+    font-weight: bold;
+    font-size: 24px;
+}
